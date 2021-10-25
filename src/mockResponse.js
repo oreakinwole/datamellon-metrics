@@ -1,4 +1,4 @@
-[
+const response = [
     {
         "Order ID": "CA-2016-106621",
         "Profit": "1.1808",
@@ -63227,3 +63227,5 @@
         "Order Date": "5/28/2017"
     }
 ]
+
+export default response;
