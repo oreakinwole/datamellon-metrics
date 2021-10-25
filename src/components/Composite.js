@@ -22,7 +22,7 @@ const Composite = () => {
         width: [0, 4]
       },
       title: {
-        text: 'Traffic Sources'
+        text: 'Sales and Profit'
       },
       dataLabels: {
         enabled: true,
